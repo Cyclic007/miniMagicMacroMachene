@@ -6,4 +6,4 @@
 
 The idea for this project is a small macro pad that can be used with a laptop effectively
 
-Today I am making a BOM and finding the things that are needed for the PCB design
+Today I am making a BOM and finding the things that are needed for the PCB design and starting on the 3d Model
