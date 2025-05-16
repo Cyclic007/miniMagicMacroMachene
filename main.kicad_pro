@@ -460,7 +460,10 @@
   },
   "libraries": {
     "pinned_footprint_libs": [],
-    "pinned_symbol_libs": []
+    "pinned_symbol_libs": [
+      "keyboard_parts",
+      "ScottoKeebs"
+    ]
   },
   "meta": {
     "filename": "main.kicad_pro",
@@ -621,6 +624,11 @@
     "subpart_first_id": 65,
     "subpart_id_separator": 0
   },
-  "sheets": [],
+  "sheets": [
+    [
+      "b69ac572-6c4c-4447-98a7-d329fd5fffbd",
+      "Root"
+    ]
+  ],
   "text_variables": {}
 }
