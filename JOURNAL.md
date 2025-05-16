@@ -10,7 +10,7 @@ Today I am making a BOM and finding the things that are needed for the PCB desig
 
 
 
-#### May 16(part 2) (3.5 hr)
+#### May 16(part 2) (4 hr)
 
 created the PCB and finished PCB and found 
 
@@ -20,4 +20,6 @@ created the PCB and finished PCB and found
 these are the parts I will be using and hopefully 3d print the rest. 
 
 ![](https://hc-cdn.hel1.your-objectstorage.com/s/v3/2a4f2af618b56019a9ad0f7acd084e40a72afda3_image.png)
+
+
 
