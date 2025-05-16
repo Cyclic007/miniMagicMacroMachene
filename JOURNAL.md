@@ -18,3 +18,5 @@ created the PCB and found
 - https://cherry.saas.contentserv.com/admin/rest/document/30?ContextIDs=15343&Language=1
 
 these are the parts I will be using and hopefully print the rest. 
+
+![](https://hc-cdn.hel1.your-objectstorage.com/s/v3/2a4f2af618b56019a9ad0f7acd084e40a72afda3_image.png)
