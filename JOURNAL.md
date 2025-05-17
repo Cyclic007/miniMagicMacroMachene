@@ -43,3 +43,4 @@ Found a tool called turbocase that generates a scad file for a case for a pcb an
 
 also made the BOM
 
+![](https://hc-cdn.hel1.your-objectstorage.com/s/v3/d4aed93295c08d1123759227e800be9debfb4fee_image.png)
