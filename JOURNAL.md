@@ -40,3 +40,5 @@ Found a plugin that will make creating the case infinitely easier allowing commu
 tryed useing FreeCad to make case and am not doing very well at it 
 
 Found a tool called turbocase that generates a scad file for a case for a pcb and I used it to generate the bottom case
+
+also made the BOM
