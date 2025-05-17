@@ -23,7 +23,7 @@ these are the parts I will be using and hopefully 3d print the rest.
 
 
 
-#### May 17 (3hr)
+#### May 17 (3.5hr)
 
 Found venders for PCB parts and found what key switches I am going to use
 
@@ -38,3 +38,5 @@ also got a quote for the PCB of 20.06 from PCBway (including shipping)
 Found a plugin that will make creating the case infinitely easier allowing communication between freecad and Kicad 
 
 tryed useing FreeCad to make case and am not doing very well at it 
+
+Found a tool called turbocase that generates a scad file for a case for a pcb and I used it to generate the bottom case
