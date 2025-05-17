@@ -9744,8 +9744,8 @@
 		)
 	)
 	(gr_rect
-		(start 108 28)
-		(end 178.5 114)
+		(start 108 27)
+		(end 188 115.5)
 		(stroke
 			(width 0.05)
 			(type default)
@@ -9753,6 +9753,82 @@
 		(fill no)
 		(layer "Edge.Cuts")
 		(uuid "df0dcfec-ae6e-46da-8703-0c87552c1565")
+	)
+	(dimension
+		(type orthogonal)
+		(layer "Edge.Cuts")
+		(uuid "d33dd247-777a-4df4-994d-f8fc3ff550db")
+		(pts
+			(xy 108.5 28) (xy 108.5 114)
+		)
+		(height -25)
+		(orientation 1)
+		(format
+			(prefix "")
+			(suffix "")
+			(units 3)
+			(units_format 0)
+			(precision 4)
+			(suppress_zeroes yes)
+		)
+		(style
+			(thickness 0.05)
+			(arrow_length 1.27)
+			(text_position_mode 0)
+			(arrow_direction outward)
+			(extension_height 0.58642)
+			(extension_offset 0.5)
+			(keep_text_aligned yes)
+		)
+		(gr_text "86"
+			(at 82.35 71 90)
+			(layer "Edge.Cuts")
+			(uuid "d33dd247-777a-4df4-994d-f8fc3ff550db")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+	)
+	(dimension
+		(type orthogonal)
+		(layer "Edge.Cuts")
+		(uuid "f3aa9d88-101b-4b64-b565-870017f55222")
+		(pts
+			(xy 178.5 114) (xy 109 114)
+		)
+		(height 21)
+		(orientation 0)
+		(format
+			(prefix "")
+			(suffix "")
+			(units 3)
+			(units_format 0)
+			(precision 4)
+			(suppress_zeroes yes)
+		)
+		(style
+			(thickness 0.05)
+			(arrow_length 1.27)
+			(text_position_mode 0)
+			(arrow_direction outward)
+			(extension_height 0.58642)
+			(extension_offset 0.5)
+			(keep_text_aligned yes)
+		)
+		(gr_text "69.5"
+			(at 143.75 133.85 0)
+			(layer "Edge.Cuts")
+			(uuid "f3aa9d88-101b-4b64-b565-870017f55222")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 	)
 	(segment
 		(start 130.27 59.92)
@@ -14679,6 +14755,38 @@
 				(xy 113.650886 34.997715) (xy 113.485286 35.118028) (xy 113.340528 35.262786) (xy 113.220215 35.428386)
 				(xy 113.127281 35.610776) (xy 113.064022 35.805465) (xy 113.032 36.007648) (xy 108.5 36.007648)
 				(xy 108.5 28.124) (xy 108.519685 28.056961) (xy 108.572489 28.011206) (xy 108.624 28) (xy 187.376 28)
+			)
+		)
+	)
+	(zone
+		(net 0)
+		(net_name "")
+		(layer "User.1")
+		(uuid "3381699e-64f2-4058-99a1-a074c86ddf31")
+		(hatch edge 0.5)
+		(connect_pads
+			(clearance 0)
+		)
+		(min_thickness 0.25)
+		(filled_areas_thickness no)
+		(keepout
+			(tracks not_allowed)
+			(vias not_allowed)
+			(pads not_allowed)
+			(copperpour allowed)
+			(footprints allowed)
+		)
+		(placement
+			(enabled no)
+			(sheetname "/")
+		)
+		(fill
+			(thermal_gap 0.5)
+			(thermal_bridge_width 0.5)
+		)
+		(polygon
+			(pts
+				(xy 192 24) (xy 192 118) (xy 105 118) (xy 104.5 117.5) (xy 104.5 24.5) (xy 105 24)
 			)
 		)
 	)
