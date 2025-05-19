@@ -66,3 +66,6 @@ Also fixed my bord cutout
 
 
 also starting on the case for the pcb useing fusion360 because freecad is driveing me crazy
+
+
+created the case for the PCB and finished modeling
