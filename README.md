@@ -8,7 +8,7 @@ This is a 3x3 macropad that uses black cherry keyswitches and a raspberry pi pic
 
 ![](https://hc-cdn.hel1.your-objectstorage.com/s/v3/207465efb79e7bfdae7e1e5a1582351e55a2cdda_image.png)
 
-##Total Price $50.18 USD
+## Total Price $50.18 USD
 
 | Reference                           | Qty | Name                                | DNP | Exclude from BOM | Exclude from Board | Footprint                                  | Datasheet                                                                               | source                                                                                       | unit cost | Total cost |
 |-------------------------------------|-----|-------------------------------------|-----|------------------|--------------------|--------------------------------------------|-----------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------|-----------|------------|
