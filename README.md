@@ -1,7 +1,7 @@
 # MiniMagicMacroMachene
 
 
-This is a 3x3 macropad that uses black cherry keyswitches and a raspberry pi pico 2
+This is a 3x3 macropad that uses black cherry keyswitches and a raspberry pi pico 1w made to be used with AutoHotKey
 
 ![](https://hc-cdn.hel1.your-objectstorage.com/s/v3/f991de79bde488d023c933982953797590d9f2c7_image.png)
 
