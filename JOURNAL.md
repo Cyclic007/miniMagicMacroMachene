@@ -44,3 +44,22 @@ Found a tool called turbocase that generates a scad file for a case for a pcb an
 also made the BOM
 
 ![](https://hc-cdn.hel1.your-objectstorage.com/s/v3/d4aed93295c08d1123759227e800be9debfb4fee_image.png)
+
+
+
+#### May 19 
+
+So I learned that I have the wrong pinout for the pi Pico 2 and on the pcb have switches connected to the ground pins and not the data pins
+
+the pinout :
+
+	https://datasheets.raspberrypi.com/pico/Pico-2-Pinout.pdf
+
+Fixed the pinout problem and also fixed my traces so that rows are on top while collems are on bottom 
+
+Also fixed my bord cutout 
+
+![](https://hc-cdn.hel1.your-objectstorage.com/s/v3/f991de79bde488d023c933982953797590d9f2c7_image.png)
+
+
+![](https://hc-cdn.hel1.your-objectstorage.com/s/v3/207465efb79e7bfdae7e1e5a1582351e55a2cdda_image.png)
