@@ -47,7 +47,7 @@ also made the BOM
 
 
 
-#### May 19 
+#### May 19 (4.5 hr)
 
 So I learned that I have the wrong pinout for the pi Pico 2 and on the pcb have switches connected to the ground pins and not the data pins
 
@@ -69,3 +69,23 @@ also starting on the case for the pcb useing fusion360 because freecad is drivei
 
 
 created the case for the PCB and finished modeling
+
+![](https://hc-cdn.hel1.your-objectstorage.com/s/v3/d83f64d1468e36552dbad9a09bb2207f488d73d4_image.png)
+
+![](https://hc-cdn.hel1.your-objectstorage.com/s/v3/01fa173185cb39b1c125f12657aa8aef534b38cb_screenshot_2025-05-19_104359.png)
+
+also starting the firmware using QMK  
+
+I am going to assighn the keys on the keybord to func keys 13 through 21 inclusive
+
+the key layout JSON is in QMKlayout.JSON
+
+also updated the BOM
+
+I found that QMK does not support the rPI pico 2 series but the rPI Pico 1 has the same pinout so I am changeing to useing the PI Pico 1w
+
+Setup the firwere jsons and things and trying to compile
+
+![](https://hc-cdn.hel1.your-objectstorage.com/s/v3/477c8773aff9165533b1400a3b3218a7c8f698f3_image.png)
+
+Finished the firmwere
