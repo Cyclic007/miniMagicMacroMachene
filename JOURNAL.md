@@ -1,5 +1,7 @@
 # miniMagicMacroMachene
 
+### Time Spent 14hr
+
 #### May 16 (part 1) (1.5hr)
 
 ##### the start
@@ -47,7 +49,7 @@ also made the BOM
 
 
 
-#### May 19 (4.5 hr)
+#### May 19 (5 hr)
 
 So I learned that I have the wrong pinout for the pi Pico 2 and on the pcb have switches connected to the ground pins and not the data pins
 
