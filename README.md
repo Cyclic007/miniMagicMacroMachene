@@ -5,6 +5,8 @@ This is a 3x3 macropad that uses black cherry keyswitches and a raspberry pi pic
 
 ![](https://hc-cdn.hel1.your-objectstorage.com/s/v3/f991de79bde488d023c933982953797590d9f2c7_image.png)
 
+![](https://hc-cdn.hel1.your-objectstorage.com/s/v3/6842ecf8c9ecda2759bda3d43cbd6a7be4c6c861_image.png)
+
 ![](https://hc-cdn.hel1.your-objectstorage.com/s/v3/d83f64d1468e36552dbad9a09bb2207f488d73d4_image.png)
 
 ![](https://hc-cdn.hel1.your-objectstorage.com/s/v3/01fa173185cb39b1c125f12657aa8aef534b38cb_screenshot_2025-05-19_104359.png)
