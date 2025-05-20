@@ -5,17 +5,16 @@ description: "A wireless macro pad made to be used with autoHotKey"
 created_at: "2024-5-16"
 ---
 
-#### May 16 (part 1) (1.5hr)
+#### May 16 (part 1) Starting
 
-##### the start
 
 The idea for this project is a small macro pad that can be used with a laptop effectively
 
 Today I am making a BOM and finding the things that are needed for the PCB design and starting on the 3d Model
 
+**Total Time Spent: 1.5 hr**
 
-
-#### May 16(part 2) (4 hr)
+#### May 16(part 2) worked on PCB
 
 created the PCB and finished PCB and found 
 
@@ -26,9 +25,9 @@ these are the parts I will be using and hopefully 3d print the rest.
 
 ![](https://hc-cdn.hel1.your-objectstorage.com/s/v3/2a4f2af618b56019a9ad0f7acd084e40a72afda3_image.png)
 
+**Total Time Spent: 4 hr**
 
-
-#### May 17 (3.5hr)
+#### May 17 finding parts and failing to make the case
 
 Found venders for PCB parts and found what key switches I am going to use
 
@@ -50,9 +49,10 @@ also made the BOM
 
 ![](https://hc-cdn.hel1.your-objectstorage.com/s/v3/d4aed93295c08d1123759227e800be9debfb4fee_image.png)
 
+**Total Time Spent: 3.5 hr**
 
 
-#### May 19 (5 hr)
+#### May 19 finishing and finsing the stuff I did wrong
 
 So I learned that I have the wrong pinout for the pi Pico 2 and on the pcb have switches connected to the ground pins and not the data pins
 
@@ -94,3 +94,5 @@ Setup the firwere jsons and things and trying to compile
 ![](https://hc-cdn.hel1.your-objectstorage.com/s/v3/477c8773aff9165533b1400a3b3218a7c8f698f3_image.png)
 
 Finished the firmwere
+
+**Total Time Spent: 5.5 hr**
