@@ -2,7 +2,7 @@
 title: "MiniMagicMacroMachene"
 author: "Cyclic"
 description: "A wireless macro pad made to be used with autoHotKey"
-created_at: "2024-5-16"
+created_at: "2025-5-16"
 ---
 
 #### May 16 (part 1) Starting
