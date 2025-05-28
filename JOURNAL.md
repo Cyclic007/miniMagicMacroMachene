@@ -114,3 +114,7 @@ I also had to join the ZMK discord server
 -https://docs.zephyrproject.org/latest/boards/raspberrypi/rpi_pico/doc/index.html
 
 I found the thing I needed
+
+All the firmware is hopefully done and comes builtin with Bluetooth
+
+** total time spent 2hr **
