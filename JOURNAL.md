@@ -96,3 +96,21 @@ Setup the firwere jsons and things and trying to compile
 Finished the firmwere
 
 **Total Time Spent: 5.5 hr**
+
+#### May 28 Firmwere and things
+
+Today my project needs the firmwere with Bluetooth
+
+- https://docs.qmk.fm/features/wireless
+
+I found that QMK does not support my microcontroller but ZMK does so I am going to change to ZMK
+
+- https://zmk.dev/
+
+I am going to setup ZMK firmwere
+
+I also had to join the ZMK discord server
+
+-https://docs.zephyrproject.org/latest/boards/raspberrypi/rpi_pico/doc/index.html
+
+I found the thing I needed
