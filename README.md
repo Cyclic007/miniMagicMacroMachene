@@ -21,3 +21,5 @@ This is a 3x3 macropad that uses black cherry keyswitches and a raspberry pi pic
 | 1   | PCB                                 |                                                                                         | https://www.pcbway.com/QuickOrderOnline.aspx                                                 | 20.06     | 20.06      |
 
 There is a battery thing I am going to use but I tried to find the datasheet and price and couldn't
+
+also the case will be painted and butified phisicly after it is printed
